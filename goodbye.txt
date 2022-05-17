@@ -1,2 +1,5 @@
 // English
 Good bye!
+
+// Spanish
+hola
