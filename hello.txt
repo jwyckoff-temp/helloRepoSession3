@@ -6,3 +6,6 @@ thing2
 hola!
 
 thing1
+
+// Dutch
+Goedendag
