@@ -6,3 +6,6 @@ hola
 
 // German
 Auf Widersehen
+
+// Hawaiian
+Aloha!
