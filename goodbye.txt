@@ -8,4 +8,4 @@ hola
 Auf Widersehen
 
 // Hawaiian
-aloha
+aloha!
